@@ -20,7 +20,7 @@
             "heading": "HyperX KINGSTON FURY - Arbeitsspeicher",
             "subline": "RAM Erweiterung",
             "avatar": "https://cyberport.scene7.com/is/image/cyberport/210729131051500301900048V?$Zoom_1000$",
-            "active": "true",
+            "active": "false",
             "kind": "rechner",
             "link": "https://www.cyberport.de/?DEEP=2412-0FE&APID=276&gclid=Cj0KCQiAkZKNBhDiARIsAPsk0Wgd_ErJndQzUTVeAFbYy6XQgzzNHi27r5rPNDrxQCMWtAteYVU5M_UaAk-IEALw_wcB"
         },
@@ -52,7 +52,7 @@
             "heading": "Extruder Kit",
             "subline": "Verbesserte Filamentf\u00fchrung",
             "avatar": "https://images-eu.ssl-images-amazon.com/images/I/61oOrIY79YS._AC_UL116_SR116,116_.jpg",
-            "active": "true",
+            "active": "false",
             "kind": "3d drucker",
             "link": "https://www.amazon.de/Creality-3D-Extruder-3D-Drucker-Extruder-Aluminiumlegierung/dp/B092HKZMQM/ref=asc_df_B092HKZMQM/?tag=googshopde-21&linkCode=df0&hvadid=526474411893&hvpos=&hvnetw=g&hvrand=999100487772390169&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044412&hvtargid=pla-1376998366507&psc=1&th=1&psc=1"
         },
@@ -60,7 +60,7 @@
             "heading": "Flexibles Filament",
             "subline": "Hochleistungsf\u00e4higes flexibles TPU Filament",
             "kind": "3d drucker",
-            "active": "true",
+            "active": "false",
             "avatar": "https://cdn-3d.niceshops.com/upload/image/product/medium/default/formfutura-python-flextm-white-273498-de.jpg",
             "link": "https://www.3djake.de/formfutura/python-flextm-white"
         },
@@ -84,7 +84,7 @@
             "heading": "Magnetische Bauplatte",
             "subline": "Originale magnetische Bauplatte f\u00fcr Creality 3D Drucker",
             "kind": "3d drucker",
-            "active": "true",
+            "active": "false",
             "avatar": "https://cdn-3d.niceshops.com/upload/image/product/medium/default/creality-magnetische-bauplatte-297871-de.jpg",
             "link": "https://www.3djake.de/creality-3d-drucker-ersatzteile/magnetische-bauplatte-1"
         },
@@ -122,7 +122,7 @@
         },
         {
             "heading": "Epson EcoTank ET-2720",
-            "subline": "Drucker da der alte die Neige macht",
+            "subline": "Ein neuer Umweltfreundlicher Drucker",
             "kind": "sonstiges",
             "active": "true",
             "avatar": "https://images-eu.ssl-images-amazon.com/images/I/81M19T-4mAL._AC_UL116_SR116,116_.jpg",
@@ -164,7 +164,7 @@
             "heading": "Aqara Bewegungsmelder ",
             "subline": "Ich ben\u00f6tige noch 5 St\u00fcck f\u00fcr vollst\u00e4ndige Abdeckung",
             "kind": "smarthome",
-            "active": "true",
+            "active": "false",
             "avatar": "https://asset.conrad.com/media10/isa/160267/c1/-/de/002201288PI02/aqara-bewegungsmelder-rtcgq11lm-apple-homekit.jpg?x=480",
             "link": "https://www.conrad.de/de/p/aqara-bewegungsmelder-rtcgq11lm-apple-homekit-2201288.html"
         },
